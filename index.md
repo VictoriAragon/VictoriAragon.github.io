@@ -1,3 +1,8 @@
-Victoria Aragon
+# Hello, my name is Victoria Aragon
 
-**Environmental Scientist and Geographic Information Systems (GIS) Specialist** 
+### I'm an Environmental Scientist and Geographic Information Systems (GIS) Specialist 
+
+#### Contact Information
+* Email
+* Phone number
+* Location
