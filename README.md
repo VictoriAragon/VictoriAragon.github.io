@@ -1,16 +1,15 @@
-## 👋 Hi there! I'm [Victoria Aragon]
+## 👋 Hi there! I'm Victoria Aragon
 
-I'm a passionate [Envronmental Scientist and Geographich Information Systems (GIS) Specialist] 
+I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Django, Flask
-- **Tools:** Git, Docker, AWS
+- **Languages:** Python
+- **Frameworks:** 
+- **Tools:** Git, AWS, ArcGIS Pro, Arc Map
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### 🚀 Projects
 
