@@ -1,15 +1,33 @@
-## Victoria Aragon
-<!--
-**Victoria Aragon is an Environmental Scientist and Geographic Information Specialist** 
+## 👋 Hi there! I'm [Victoria Aragon]
 
-Here are some ideas to get you started:
+I'm a passionate [Envronmental Scientist and Geographich Information Systems (GIS) Specialist] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, Docker, AWS
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🚀 Projects
+
+- **[My Awesome Project](https://github.com/yourusername/awesome-project):** A brief description of what the project is about.
+- **[Another Cool Project](https://github.com/yourusername/cool-project):** A brief description of what the project is about.
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+### 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:youremail@example.com)
+
+### 🎯 Fun Fact
+
+I love contributing to open-source projects and have a knack for solving complex problems!
