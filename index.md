@@ -1,6 +1,8 @@
-  ![ ](https://link-to-your-banner.com/banner.png]](https://github.com/user-attachments/assets/891c8eb8-24da-4c69-b8ed-bdd69b4661eb)
+ 
 
 ## 👋 Hi there! I'm Victoria Aragon
+
+![GitHub Profile Banner](https://raw.githubusercontent.com/username/username/main/images/banner.png)
 
 I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
 
