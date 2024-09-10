@@ -6,15 +6,16 @@
   </p>
 
   
-<p>
-  <img src="https://github.com/user-attachments/assets/16388cf3-e872-4ffb-a5ee-6d5448f1812c" width="185" height="255>
- </p> 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/16388cf3-e872-4ffb-a5ee-6d5448f1812c" width="183" height="255>
+    </p> 
 
 
-<p>
-  
+
+
+<p align="center">
   I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
-</p>
+  </p>
 
   
 ### 🛠️ Skills & Technologies
