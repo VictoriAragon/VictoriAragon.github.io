@@ -1,5 +1,8 @@
-<p align="center">![ghban2](https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8)</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8>
+</div>
 
+![ghban2](https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8)
 ## 👋 Hi there! I'm Victoria Aragon
 
 ![GitHub Profile Banner](https://raw.githubusercontent.com/username/username/main/images/banner.png)
