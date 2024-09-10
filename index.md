@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8">
+  <img src="https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8" width="800"height="200">
   </p>
   
 ## 👋 Hi there! I'm Victoria Aragon
 
-![GitHub Profile Banner](https://raw.githubusercontent.com/username/username/main/images/banner.png)
 
 I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
 
