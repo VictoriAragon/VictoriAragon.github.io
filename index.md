@@ -5,11 +5,11 @@
 <p align="center"> 👋 Hi there! I'm Victoria Aragon
   </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/d9f13bed-7bd0-44a0-b33e-ac064e943b20" width="200" height="268"style="float: left;margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/16388cf3-e872-4ffb-a5ee-6d5448f1812c" width="195" height="268"style="float: left;margin-right: 20px;">
  </p> 
 
   I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
-  
+
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python
