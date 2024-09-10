@@ -8,8 +8,10 @@
   <img src="https://github.com/user-attachments/assets/16388cf3-e872-4ffb-a5ee-6d5448f1812c" width="185" height="255>
  </p> 
 
-  I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
 
+I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+
+  
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python
