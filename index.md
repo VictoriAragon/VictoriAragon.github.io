@@ -9,8 +9,10 @@
  </p> 
 
 
-I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
-
+<p>
+  
+  I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+</p>
   
 ### 🛠️ Skills & Technologies
 
