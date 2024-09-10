@@ -1,4 +1,4 @@
-![test](https://github.com/user-attachments/assets/891c8eb8-24da-4c69-b8ed-bdd69b4661eb)
+![ghban2](https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8)
 
 ## 👋 Hi there! I'm Victoria Aragon
 
