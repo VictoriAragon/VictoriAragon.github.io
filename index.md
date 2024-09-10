@@ -2,11 +2,14 @@
   <img src="https://github.com/user-attachments/assets/99564cf1-579e-4065-9193-2392a101f6d8" >
   </p>
   
-## 👋 Hi there! I'm Victoria Aragon
+<p align="center"> 👋 Hi there! I'm Victoria Aragon
+  </p>
+<p>
+  <img src="https://github.com/user-attachments/assets/d9f13bed-7bd0-44a0-b33e-ac064e943b20" width="200" height="268"style="float: left;margin-right: 20px;">
+ </p> 
 
-
-I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
-
+  I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+  
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python
