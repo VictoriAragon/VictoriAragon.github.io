@@ -7,7 +7,7 @@
 
   
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/179668695?s=400&u=85facbcc37892bcf9927c1ab4b09756914510733&v=4" width="183" height="255>
+  <img src="images/GitHub VA pic2.png" width="183" height="255>
     </p> 
 
 
