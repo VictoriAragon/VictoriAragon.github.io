@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e064aecf-272e-4409-b712-9610187ecddf" >
+  <img src="https://github.com/user-attachments/assets/9c575aad-0aec-4264-850b-0c2d902302ec" >
   </p>
   
 <p align="center"> 👋 Hi there! I'm Victoria Aragon
