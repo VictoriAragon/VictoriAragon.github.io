@@ -6,7 +6,7 @@
   </p>
 
   
-<p align="left">
+<p>
   <img src="images/GitHub VA pic2.png" width="183" height="255>
     </p> 
 
