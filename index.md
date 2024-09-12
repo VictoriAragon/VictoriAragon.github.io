@@ -7,7 +7,7 @@
 
   
 <p>
-  <img src="images/GitHub VA pic2.png" width="183" height="255">
+  <img src="images/GitHub VA pic522.png" width="183" height="255">
     </p> 
 
 
