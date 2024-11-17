@@ -16,12 +16,12 @@ I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS)
 - <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
 ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
  
-- **Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
+- span style="color:blue">**Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
 Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
  
-- **Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
+- span style="color:blue">**Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
 
-- **Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
+- span style="color:blue">**Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +30,7 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 &nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-Used-orange)
 &nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/git-used-red?style=for-the-badge)
 &nbsp;&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/bash-used-blue)
-&nbsp;&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/%24E%3Dmc%5E2%24-Math-blue)
+
 
 
 
