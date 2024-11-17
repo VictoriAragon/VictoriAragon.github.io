@@ -16,12 +16,12 @@ I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS)
 - <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
 ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
  
-- span style="color:blue">**Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
+- <span style="color:blue">**Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
 Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
  
-- span style="color:blue">**Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
+- <span style="color:blue">**Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
 
-- span style="color:blue">**Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
+- <span style="color:blue">**Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
