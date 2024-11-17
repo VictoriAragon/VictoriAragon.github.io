@@ -8,7 +8,7 @@
  👋 Hi there! I'm Victoria Aragon
 </p>
 <p align="center">
-I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+I'm a passionate Environmental Scientist and Geographic Information Systems Specialist
 </p>
 
 ## 🛠️ Skills & Technologies
