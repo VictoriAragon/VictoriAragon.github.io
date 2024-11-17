@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- 👋 Hi there! I'm Victoria Aragon
+ 👋 **Hi there! I'm Victoria Aragon**
 </p>
 <p align="center">
 I'm a passionate Environmental Scientist and Geographic Information Systems Specialist
