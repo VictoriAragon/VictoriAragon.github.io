@@ -32,20 +32,6 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 &nbsp;&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/bash-used-blue)
 
 
-
-
-## 💼 Experience
-🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
-
-
-🔬🧪 **Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
-
-
-🌲**USDA Forestry Service‑South Park Ranger District, Forestry Intern** | Fairplay, Colorado 2012
-
-
-
-
 ## 📚 Education
 
 **Master of Science (M.S.), Environmental Science and Management** | New Mexico Highlands University <br><br>
@@ -56,6 +42,14 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 **Earth Data Analytics Professional Data Science Bootcamp** | University of Colorado Boulder <br><br>
 
+## 💼 Experience
+🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
+
+
+🔬🧪 **Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
+
+
+🌲**USDA Forestry Service‑South Park Ranger District, Forestry Intern** | Fairplay, Colorado 2012
 
 
 
