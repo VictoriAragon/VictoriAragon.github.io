@@ -7,28 +7,14 @@
 I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
 
 ## 💼 Experience
-🌐**Abt Global Inc., GIS Analyst II** | Remote December 2019 ‑ April 2024
-- Conducted in‑depth GIS analysis using remote sensing techniques (including satellite imagery and aerial photo‑interpretation) for
-several government contracts.
-- Discussed projects with clients and provided comprehensive recommendations for efficient output based on specific client needs.
-- Executed data and spatial analysis, data collection, data management and tabular data conversion using Joins and sub‑queries to
-simplify complex queries.
-- Developed and revised maps, prepared web and ArcGIS StoryMaps, created workflows that included Python scripts and SQL queries
-and managed the spatial information databases.
-- Documented processes working with tabular and spatial data followed by QA/QC utilizing spatial tools and comparing with origin
-data.
-- Researched and wrote technical documents and helped prepare consulting reports for project deliverables.
+🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
 
-🔬🧪 **Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa June 2015 ‑ August 2015
-- Assessed micro‑structure of the soybean genome at various locations using DNA sequencing.
-- Utilized Virus‑Induced Gene Silencing (VIGS) to examine soybeans response to Iron Deficiency Chlorosis (IDC), and thus, identifying
-the genes that influenced leaf size and chlorophyll content.
 
-🌲**USDA Forestry Service‑South Park Ranger District, Forestry Intern** | Fairplay, Colorado May 2012 ‑ July 2012
-- Operated GPS devices to navigate areas while identifying tree stand structure and species.
-- Determined tree health by identifying diseases, deformities, and general external physical components including environment,
-location and objects in the surrounding area. This resulted in the elimination of diseases and environmental hazards through thinning
-and overall forest management.
+🔬🧪 **Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
+
+
+🌲**USDA Forestry Service‑South Park Ranger District, Forestry Intern** | Fairplay, Colorado 2012
+
 
 
 
