@@ -3,13 +3,36 @@
 <img src="images/VAlogonsme.PNG" alt="Logo" width="600">
 <img src="images/GitHub VA pic2.png" alt="Logo" width="135"> 
 </p>
-|-----------------------------------------------------------|---------------------------------------------------------------|
 
-| <img src="images/VAlogonsme.PNG" alt="Logo" width="750"/> | <img src="images/GitHub VA pic2.png" alt="Logo" width="150"/> | 
-|-----------------------------------------------------------|---------------------------------------------------------------|
-## 👋 Hi there! I'm Victoria Aragon
-
+<p align="center">
+ 👋 Hi there! I'm Victoria Aragon
+</p>
+<p align="center">
 I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+</p>
+
+## 🛠️ Skills & Technologies
+
+- <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
+ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
+ 
+- **Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
+Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
+ 
+- **Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
+
+- **Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)
+&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.0%2B-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML-Used-orange)
+&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/git-used-red?style=for-the-badge)
+&nbsp;&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/bash-used-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/%24E%3Dmc%5E2%24-Math-blue)
+
+
 
 ## 💼 Experience
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
@@ -34,26 +57,7 @@ I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS)
 **Earth Data Analytics Professional Data Science Bootcamp** | University of Colorado Boulder <br><br>
 
 
-## 🛠️ Skills & Technologies
 
-- <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
-ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
- 
-- **Software**  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
-Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
- 
-- **Communication Tools**  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
-
-- **Languages**  | Python (libraries: Pandas, GeoPandas, ArcPy, NumPy, Matplotlib), SQL, HTML, LaTeX. Git Bash commands <br><br>
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.0%2B-blue)
-![HTML](https://img.shields.io/badge/HTML-Used-orange)
-![Git](https://img.shields.io/badge/git-used-red?style=for-the-badge)
-![Bash](https://img.shields.io/badge/bash-used-blue)
 
 ## 📈📊 Projects
 
