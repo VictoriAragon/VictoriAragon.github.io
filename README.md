@@ -1,8 +1,7 @@
 
-<img src="images/VAlogonsme.PNG" alt="Logo" width="850"/>
 
-
-
+| <img src="images/VAlogonsme.PNG" alt="Logo" width="850"/> | <img src="images/GitHub VA pic2.png" alt="Logo" width="200"/> | 
+|-----------------------------------------------------------|---------------------------------------------------------------|
 ## 👋 Hi there! I'm Victoria Aragon
 
 I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
