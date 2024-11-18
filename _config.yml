@@ -1,1 +1,14 @@
-remote_theme: flancast90/millidocs-dark
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme a {
+    color: #1e90ff;
+}
+
+.dark-theme button {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
