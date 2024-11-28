@@ -4,7 +4,7 @@
 |-----------------------------------------------------------|---------------------------------------------------------------|
 ## 👋 Hi there! I'm Victoria Aragon
 
-I'm a passionate Envronmental Scientist and Geographic Information Systems (GIS) Specialist
+Please read more information about me!
 
 ## 💼 Experience
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
