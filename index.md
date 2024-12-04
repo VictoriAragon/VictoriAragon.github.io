@@ -55,7 +55,7 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 ## 📈📊 Projects
 
-- **[My Awesome Project](https://github.com/yourusername/awesome-project):** A brief description of what the project is about.
+- **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** A brief description of what the project is about.
 - **[Another Cool Project](https://github.com/yourusername/cool-project):** A brief description of what the project is about.
 
 ## 📊 GitHub Stats
