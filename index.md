@@ -57,7 +57,7 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** A brief description of what the project is about.
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** A brief description of what the project is about.
-- **[Another Cool Project](https://github.com/yourusername/cool-project):** A brief description of what the project is about.
+- **[Redlining](https://github.com/VictoriAragon/redlining.git):** 
 
 ## 📊 GitHub Stats
 
