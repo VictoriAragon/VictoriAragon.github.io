@@ -70,6 +70,7 @@ Let me think about this one for a bit 🤔
 
 
 ## 📈📊 __PROJECTS__ (☣️⚠️⛔☢️<span style="color:RED">__THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS__)☢️⛔⚠️☣️)
+<p align="center">🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌</p>
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
