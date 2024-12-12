@@ -59,12 +59,6 @@ You can review some of my projects below if you keep scrolling 👇
 
 
 
-
-
-
-
-
-
 ## 📫 You can __GET IN TOUCH__ with me by sending me a Linkedin request
 
 - [LinkedIn](linkedin.com/in/victoria-r-aragon)
@@ -72,7 +66,8 @@ You can review some of my projects below if you keep scrolling 👇
 
 ## 🎯 Fun Fact
 
-I love contributing to open-source projects and have a knack for solving complex problems!
+Let me think about this one for a bit 🤔
+
 
 ## 📈📊 __PROJECTS__ (☣️⚠️⛔☢️<span style="color:RED">__THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS__)☢️⛔⚠️☣️)
 
