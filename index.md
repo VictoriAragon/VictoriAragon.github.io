@@ -57,7 +57,7 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 
 
-## 📈📊 Projects
+## 📈📊 Projects (☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** A brief description of what the project is about.
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** A brief description of what the project is about.
@@ -72,9 +72,8 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](linkedin.com/in/victoria-r-aragon)
+
 
 ## 🎯 Fun Fact
 
