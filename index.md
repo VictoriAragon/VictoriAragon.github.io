@@ -11,17 +11,15 @@
 I'm a passionate Environmental Scientist and Geographic Information Systems Specialist
 </p>
 
-I have over 5 years of professional experience in my field. I earned my B.S. in Biology and a M.Sc. in Environmental Science and Natural Resource Management from New Mexico Highlands University (NMHU). I completed my Geographic Information Systems (GIS) certificate in December 2018, and have continued my education at the University of Colorado Boulder by taking the Earth Data Analytics Professional Data Science Bootcamp to further my knowledge with GIS technology and learn advanced techniques using Python implemented with AI. Within my professional career I have continued to employ my research and GIS skills towards environmental projects for major government contracts including the EPA, CPRA, USACE, BLM and the USDA. I have also worked as the GIS lead on a private contract with The Bill and Melinda Gates Foundation.
+I have over 5 years of professional experience in my field. I earned my B.S. in Biology and a M.Sc. in Environmental Science and Natural Resource Management. I completed my Geographic Information Systems (GIS) certificate in December 2018, and have continued my education at the University of Colorado Boulder by taking the Earth Data Analytics Professional Data Science Bootcamp to further my knowledge with GIS technology and learn advanced techniques using Python implemented with AI. Within my professional career I have continued to employ my research and GIS skills towards environmental projects for major government contracts including the EPA, CPRA, USACE, BLM and the USDA. I have also worked as the GIS lead on a private contract with The Bill and Melinda Gates Foundation.
 
 You can review some of my projects below if you keep scrolling 👇
 
 ## 🛠️ Skills & Technologies
 
-- <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
-ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
+- <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks, ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
  
-- <span style="color:blue">**Software** </span>  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
-Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
+- <span style="color:blue">**Software** </span>  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint) Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
  
 - <span style="color:blue">**Communication Tools** </span>  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
 
@@ -40,11 +38,11 @@ Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 
 
 **Master of Science (M.S.), Environmental Science and Management** | New Mexico Highlands University <br><br>
 
-**Bachelor of Science (B.S.),Biology** | New Mexico Highlands University <br><br>
+**Bachelor of Science (B.S.),Biology** |  <br><br>
 
-**Geographic Information Systems Certificate** | New Mexico Highlands University <br><br>
+**Geographic Information Systems Certificate** |  <br><br>
 
-**Earth Data Analytics Professional Data Science Bootcamp** | University of Colorado Boulder <br><br>
+**Earth Data Analytics Professional Data Science Bootcamp** |  <br><br>
 
 ## 💼 Experience
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
