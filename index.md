@@ -49,7 +49,7 @@ You can review some of my projects below if you keep scrolling 👇
 
 ## 💼 I take a lot of pride into obtaining 6 years of professional __EXPERIENCE__
 
-🍃**Natural Nexus LLC, GIS and Data Management Specialist** | 2024 - 
+🍃**Natural Nexus LLC, GIS and Data Management Specialist** | Remote 2024 - 
 
 
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
