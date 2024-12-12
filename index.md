@@ -1,4 +1,4 @@
-😀 <span style="color:RED">GOOD DAY FRIEND! WELCOME TO MY PAGE! MY GITHUB PROFILE IS CURRENTLY UNDER MAINTENANCE WHILE I UPDATE THE CONTENT. BUT FEEL FREE TO LOOK AROUND ANYWAY! 😁
+😀 __<span style="color:RED">GOOD DAY FRIEND! WELCOME TO MY PAGE! MY GITHUB PROFILE IS CURRENTLY UNDER MAINTENANCE WHILE I UPDATE THE CONTENT. BUT FEEL FREE TO LOOK AROUND ANYWAY!__ 😁
 <p align="center">
 <img src="images/VAlogonsme.PNG" alt="Logo" width="600">
 <img src="images/GitHub VA pic2.png" alt="Logo" width="135"> 
@@ -15,7 +15,8 @@ I have over 5 years of professional experience in my field. I earned my B.S. in 
 
 You can review some of my projects below if you keep scrolling 👇
 
-## 🛠️ These are some SKILLS & TECHNOLOGIES that I have learned and mastered along the way
+
+## 🛠️ These are some __SKILLS & TECHNOLOGIES__ that I have learned and mastered along the way
 
 - <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks, ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
  
@@ -34,7 +35,8 @@ You can review some of my projects below if you keep scrolling 👇
 &nbsp;&nbsp;&nbsp;&nbsp;![Bash](https://img.shields.io/badge/bash-used-blue)
 
 
-## 📚 My highest degree is a Masters but I have other EDUCATION achievements as well
+
+## 📚 My highest degree is a Masters but I have other __EDUCATION__ achievements as well
 
 **Master of Science (M.S.), Environmental Science and Management** |2019 <br><br>
 
@@ -44,7 +46,8 @@ You can review some of my projects below if you keep scrolling 👇
 
 **Earth Data Analytics Professional Data Science Bootcamp** | 2024 <br><br>
 
-## 💼 I put a lot of work into obtaining over 5 years of EXPERIENCE
+
+## 💼 I take a lot of pride into obtaining over 5 years of professional __EXPERIENCE__
 
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
 
@@ -56,7 +59,8 @@ You can review some of my projects below if you keep scrolling 👇
 
 
 
-## 📈📊 PROJECTS (☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)
+
+## 📈📊 __PROJECTS__ (☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
@@ -69,7 +73,7 @@ You can review some of my projects below if you keep scrolling 👇
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
-## 📫 You can GET IN TOUCH with me by sending me a Linkedin request
+## 📫 You can __GET IN TOUCH__ with me by sending me a Linkedin request
 
 - [LinkedIn](linkedin.com/in/victoria-r-aragon)
 
