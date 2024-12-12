@@ -70,9 +70,9 @@ Let me think about this one for a bit 🤔
 
 
 
-##<p align="center"><span style="color:RED">(☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)</p>
+##<span style="color:RED"><p align="center">(☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)</p>
 ## 📈📊 PROJECTS
-<p align="center">🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌</p>
+<p align="center">⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌</p>
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
