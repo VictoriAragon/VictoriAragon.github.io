@@ -70,8 +70,8 @@ Let me think about this one for a bit 🤔
 
 
 
-<p align="center">__(☣️⚠️⛔☢️<span style="color:RED">THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS__)☢️⛔⚠️☣️)</p>
-## 📈📊 __PROJECTS__ 
+<p align="center">__<span style="color:RED">(☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)__</p>
+## 📈📊 PROJECTS
 <p align="center">🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌</p>
 
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
