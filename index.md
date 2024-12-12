@@ -16,7 +16,7 @@ I'm a passionate Environmental Scientist and Geographic Information Systems Spec
 - <span style="color:blue">**GIS** </span>  |   ESRI ArcGIS Software Suite (ArcGIS Pro, ArcMap, ArcCatalog, ArcToolBox, Model Builder, ArcPy, ArcGIS Notebooks,
 ArcGIS‑Online, Web/Story Maps), ENVI Image Analysis Software, QGIS <br><br>
  
-- <span style="color:#40E0D0">**Software** </span>  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
+- <span style="color:blue">**Software** </span>  |   Microsoft Office Suite (MS‑Excel, MS‑Word, MS‑PowerPoint)
 Adobe Suite (Proficient conducting assurance checks using Adobe Acrobat Pro and 508 accessibility checkers.) <br><br>
  
 - <span style="color:blue">**Communication Tools** </span>  |  Technical Writing, Public Speaking, Online Conferencing, MS‑Teams, MS‑Outlook, Git, AWS, Remote Desktop <br><br>
