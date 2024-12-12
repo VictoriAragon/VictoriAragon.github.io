@@ -57,8 +57,8 @@ You can review some of my projects below if you keep scrolling 👇
 
 ## 📈📊 Projects (☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️)
 
-- **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** A brief description of what the project is about.
-- **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** A brief description of what the project is about.
+- **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
+- **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
 - **[Redlining](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/redlining-42-tree-model.ipynb)**
 
 - [redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)
