@@ -68,9 +68,7 @@ You can review some of my projects below if you keep scrolling 👇
 
 - [redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 ## 📫 You can __GET IN TOUCH__ with me by sending me a Linkedin request
@@ -102,3 +100,6 @@ United Tribes Technical CollegeType Private tribal land-grant community college 
 
 Website www.uttc.edu
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
