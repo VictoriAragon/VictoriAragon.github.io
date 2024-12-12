@@ -13,7 +13,7 @@ I'm a passionate Environmental Scientist and Geographic Information Systems Spec
 
 I have over 5 years of professional experience in my field. I earned my B.S. in Biology and a M.Sc. in Environmental Science and Natural Resource Management from New Mexico Highlands University (NMHU). I completed my Geographic Information Systems (GIS) certificate in December 2018, and have continued my education at the University of Colorado Boulder by taking the Earth Data Analytics Professional Data Science Bootcamp to further my knowledge with GIS technology and learn advanced techniques using Python implemented with AI. Within my professional career I have continued to employ my research and GIS skills towards environmental projects for major government contracts including the EPA, CPRA, USACE, BLM and the USDA. I have also worked as the GIS lead on a private contract with The Bill and Melinda Gates Foundation.
 
-You can review some of my projects below if you keep scrolling :point_down:
+You can review some of my projects below if you keep scrolling 👇
 
 ## 🛠️ Skills & Technologies
 
