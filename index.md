@@ -77,7 +77,7 @@ Let me think about this one for a bit 🤔
 ## 📈📊 PROJECTS
 <p align="center">⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌</p>
 
-- **[The Bill & Melinda Gates Foundation](
+- **[The Bill & Melinda Gates Foundation](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/images/Abt_Gates_Esri21_Vraragon_Poster.jpg)**
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
 - **[Redlining](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/redlining-42-tree-model.ipynb)**
