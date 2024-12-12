@@ -52,7 +52,7 @@ You can review some of my projects below if you keep scrolling 👇
 🍃**Natural Nexus LLC, GIS and Data Management Specialist** | Remote 2024 - 
 
 
-🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
+🌐**Abt Associates Inc., GIS Analyst II** | Remote  2019 ‑ 2024
 
 
 🔬🧪**Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
