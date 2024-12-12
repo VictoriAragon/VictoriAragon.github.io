@@ -47,7 +47,10 @@ You can review some of my projects below if you keep scrolling 👇
 **Earth Data Analytics Professional Data Science Bootcamp** | 2024 <br><br>
 
 
-## 💼 I take a lot of pride into obtaining over 5 years of professional __EXPERIENCE__
+## 💼 I take a lot of pride into obtaining 6 years of professional __EXPERIENCE__
+
+🍃**Natural Nexus LLC** | 2024 - 
+
 
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
 
