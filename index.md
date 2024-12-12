@@ -36,13 +36,13 @@ You can review some of my projects below if you keep scrolling 👇
 
 ## 📚 Education
 
-**Master of Science (M.S.), Environmental Science and Management** | New Mexico Highlands University <br><br>
+**Master of Science (M.S.), Environmental Science and Management** |2019 <br><br>
 
-**Bachelor of Science (B.S.),Biology** |  <br><br>
+**Bachelor of Science (B.S.),Biology** | 2016 <br><br>
 
-**Geographic Information Systems Certificate** |  <br><br>
+**Geographic Information Systems Certificate** | 2018 <br><br>
 
-**Earth Data Analytics Professional Data Science Bootcamp** |  <br><br>
+**Earth Data Analytics Professional Data Science Bootcamp** | 2024 <br><br>
 
 ## 💼 Experience
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
