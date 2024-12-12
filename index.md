@@ -45,10 +45,11 @@ You can review some of my projects below if you keep scrolling 👇
 **Earth Data Analytics Professional Data Science Bootcamp** | 2024 <br><br>
 
 ## 💼 I put a lot of work into obtaining over 5 years of EXPERIENCE
+
 🌐**Abt Global Inc., GIS Analyst II** | Remote  2019 ‑ 2024
 
 
-🔬🧪 **Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
+🔬🧪**Soymap II Summer Research Program, Laboratory Assistant Intern** | Ames, Iowa 2015
 
 
 🌲**USDA Forestry Service‑South Park Ranger District, Forestry Intern** | Fairplay, Colorado 2012
