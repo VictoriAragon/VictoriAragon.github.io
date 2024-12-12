@@ -70,7 +70,7 @@ Let me think about this one for a bit 🤔
 
 
 
-## <span style="color:RED"><p align="center">☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS)☢️⛔⚠️☣️</p>
+## <span style="color:RED"><p align="center">☣️⚠️⛔☢️THIS SECTION IS CURRENTLY IN PROGRESS OF BEING UPDATED. FOLLOW LINKS AT YOUR OWN RISK....(OF BROKEN URLS AND ZERO CONTEXT CONTENT)☢️⛔⚠️☣️</p>
 ## 📈📊 PROJECTS
 <p align="center">⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌</p>
 
