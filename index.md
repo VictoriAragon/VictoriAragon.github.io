@@ -77,12 +77,14 @@ Let me think about this one for a bit 🤔
 ## 📈📊 PROJECTS
 <p align="center">⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌⛔🐌</p>
 
+** Links Not available right now
 - **[The Bill & Melinda Gates Foundation](images/Abt_Gates_Esri21_Vraragon_Poster.jpg)**
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[Temp in NM Jupiter Note](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/VictoriAragon-portfolio-post.ipynb):** .
 - **[Redlining](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/redlining-42-tree-model.ipynb)**
 
-**Redlining workflow:
+** Links Not available right now
+** Redlining workflow: Not available right now
  - **[Overview](https://victoriaragon.github.io/notebooks/redlining-30-overview.html)**
  - **[Site Map](https://victoriaragon.github.io/notebooks/redlining-31-site-map.html)**
  - **[Wrangle Multispectral](https://victoriaragon.github.io/notebooks/redlining-32-wrangle-multispectral.html)**
@@ -90,10 +92,12 @@ Let me think about this one for a bit 🤔
  - **[Plot](https://victoriaragon.github.io/notebooks/redlining-34-plot.html)**
  - **[Zonal Stats](https://victoriaragon.github.io/notebooks/redlining-41-zonal-stats.html)**
  - **[Tree Model](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
-- [redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
-  
 
-   
+
+
+- **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
+- **[redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
+  
 
 Map of United Tribes
 <embed type="text/html" src="images/uttc.html" width="600" height="600">
