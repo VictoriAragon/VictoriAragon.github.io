@@ -83,14 +83,14 @@ Let me think about this one for a bit 🤔
 - **[Redlining](https://github.com/VictoriAragon/VictoriAragon.github.io/blob/main/notebooks/redlining-42-tree-model.ipynb)**
 
 **Redlining workflow:
- -[Overview](https://victoriaragon.github.io/notebooks/redlining-30-overview.html)
- -[Site Map](https://victoriaragon.github.io/notebooks/redlining-31-site-map.html)
- -[Wrangle Multispectral](https://victoriaragon.github.io/notebooks/redlining-32-wrangle-multispectral.html)
- -[Spectral Indices](https://victoriaragon.github.io/):**Link not available right now
- -[Plot](https://victoriaragon.github.io/notebooks/redlining-34-plot.html)
- -[Zonal Stats](https://victoriaragon.github.io/notebooks/redlining-41-zonal-stats.html)
- -[Tree Model](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)
-- [redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)
+ - **[Overview](https://victoriaragon.github.io/notebooks/redlining-30-overview.html)**
+ - **[Site Map](https://victoriaragon.github.io/notebooks/redlining-31-site-map.html)**
+ - **[Wrangle Multispectral](https://victoriaragon.github.io/notebooks/redlining-32-wrangle-multispectral.html)**
+ - **[Spectral Indices](https://victoriaragon.github.io/):Link not available right now**
+ - **[Plot](https://victoriaragon.github.io/notebooks/redlining-34-plot.html)**
+ - **[Zonal Stats](https://victoriaragon.github.io/notebooks/redlining-41-zonal-stats.html)**
+ - **[Tree Model](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
+- [redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
   
 
    
