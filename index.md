@@ -94,7 +94,7 @@ Let me think about this one for a bit 🤔
  - **[Tree Model](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
 
 
-## Elsa please grade these submissions below for my posted projects. The links above are not working urls for now. 
+
 - **[Temp in NM](https://victoriaragon.github.io/notebooks/VictoriAragon-portfolio-post.html):** .
 - **[redlining](https://victoriaragon.github.io/notebooks/redlining-42-tree-model.html)**
   
