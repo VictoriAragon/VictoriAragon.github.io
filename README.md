@@ -1,6 +1,6 @@
 
 
-| <img src="images/VAlogonsme.PNG" alt="Logo" width="850"/> | <img src="images/GitHub VA pic2.png" alt="Logo" width="200"/> | 
+| <img src="images/VAlogonsme.PNG" alt="Logo" width="850"/> | <img src="images/GitHub VA p5ic2.png" alt="Logo" width="200"/> | 
 |-----------------------------------------------------------|---------------------------------------------------------------|
 ## 👋 Hi there! I'm Victoria Aragon
 
