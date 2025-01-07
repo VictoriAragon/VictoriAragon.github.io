@@ -1,7 +1,7 @@
 😀 <span style="color:RED">__GOOD DAY FRIEND! WELCOME TO MY PAGE! MY GITHUB PROFILE IS CURRENTLY UNDER MAINTENANCE WHILE I UPDATE THE CONTENT. BUT FEEL FREE TO LOOK AROUND ANYWAY!__ 😁
 <p align="center">
 <img src="images/VAlogonsme.PNG" alt="Logo" width="600">
-<img src="images/GitHub VA pic2.png" alt="Logo" width="135"> 
+<img src="images/GitHub VA pic2^.png" alt="Logo" width="135"> 
 </p>
 
 <p align="center">
